@@ -4,3 +4,6 @@ c=5
 def array(int a)
 print(a+b+c)
 print(a-b-c)
+print(a*b*c)
+print(a/b/c)
+print(a%b%c)
